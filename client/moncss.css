@@ -1,0 +1,12 @@
+.container-fluid{
+    padding-top:10px;
+}
+.panel-chames{
+    background: #FFD700;
+}
+.panel-mosiaque{
+    background: red;
+}
+.textColor{
+    color: azure;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mon-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.15",
+    "node-schedule": "^1.2.0",
+    "request": "^2.79.0"
+  }
+}
